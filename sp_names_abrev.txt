@@ -1,0 +1,17 @@
+Scienfic	Comum	Abrev
+Mimosa_tenuiflora	Ju_preta	MimTen
+Handroanthus_impetiginosus	Ipê	HanImp
+Aspidosperma_pyrifolium	Pereiro	AspPyr
+Commiphora_leptophloeos	Imburana	ComLep
+Piptadenia_stipulacea	Ju_branca	PipSti
+Amburana_cearensis	Cumaru	AmbCea
+Cynophalla_hastata	Feijão	CynFle
+Combretum_leprosum	Mofumbu	CombLep
+Libidibia_ferrea	Jucá	LibFer
+Bauhinia_cheilantha	Mororó	BauChe
+Poincianella_gardneriana	Catingueira	PoiGar
+Pseudobombax_marginatum	Imbiratanha	PseMar
+Cochlospermum_vitifolium	Algodão	CocVit
+Ziziphus_joazeiro	Joazeiro	ZizJoa
+Anadenanthera_colubrina	Angico	AnaCol
+Sebastiania_macrocarpa	Burra	SebMac
